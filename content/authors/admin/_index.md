@@ -2,7 +2,7 @@
 title: Lei Zhong
 role: Master student in Nankai University.
 bio: My research interests include computational photography, character
-  animation and facial synthesis.
+  animation and facial expression.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
