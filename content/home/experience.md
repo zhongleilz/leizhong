@@ -1,6 +1,6 @@
 ---
 widget: Experience
-widget_id: Experience
+widget_id: RECENT-POSTS
 headless: true
 weight: 0
 title: Experience
@@ -14,11 +14,7 @@ design:
 widget: experience
 headless: true  # This file represents a page section.
 
-# ... Put Your Section Options Here (title etc.) ...
 
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` blocks below as you like.
