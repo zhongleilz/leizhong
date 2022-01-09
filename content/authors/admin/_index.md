@@ -1,6 +1,6 @@
 ---
-title: Zhong lei
-role: Professor of Artificial Intelligence
+title: Lei Zhong
+role: Master student in Nankai University.
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
