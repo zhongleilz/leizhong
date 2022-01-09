@@ -6,13 +6,7 @@ bio: My research interests include computational photography, character
   animation and facial expression.
 interests:
   - computer vision
-social:
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+social: []
 organizations:
   - name: Nankai University
     url: https://www.nankai.edu.cn/main.htm
