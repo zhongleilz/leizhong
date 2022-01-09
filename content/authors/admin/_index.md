@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: My research interests include computational photography, character
   animation and facial expression.
 interests:
-  - computer-vision
+  - computer vision
 social:
   - icon: graduation-cap
     icon_pack: fas
