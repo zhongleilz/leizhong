@@ -31,5 +31,4 @@ experience:
     company_url: ''
     location: 'Shenzhen'
     date_start: '2021-07-16'
-    date_end: '2022-1-9'
     description: 'Character Animation.'
