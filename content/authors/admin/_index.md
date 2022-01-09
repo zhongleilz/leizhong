@@ -22,7 +22,7 @@ education:
       institution: Nankai University
       year: 2023
     - course: BSc in Electronic and Information Engineering
-      institution: SouthWest University
+      institution: Southwest University
       year: 2020
 email: zhongleilz@icloud.com
 superuser: true
