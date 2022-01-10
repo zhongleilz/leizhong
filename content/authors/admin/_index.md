@@ -24,4 +24,4 @@ highlight_name: true
 ---
 Lei Zhong is a second-year master candidate in the College of Computer Science, Nankai University. Prior to that, he earned the B.Eng degree at Southwest University in China, under the supervision of Dr. Jianfeng Li and Prof. Tong Chen. His research interests mainly lie in computer vision and deep learning with an emphasis on computational photography and character animation. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Lei zhong resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
